@@ -1,5 +1,7 @@
 # week7-test
 
+Heroku link : https://cities-test1.herokuapp.com/
+
 This project has a server, front-end and a database, the server and front-end have been set up for you.
 
 ### Tasks:
@@ -13,4 +15,3 @@ This project has a server, front-end and a database, the server and front-end ha
 *Add the heroku website link on your README*
 
 
-https://cities-test1.herokuapp.com/
